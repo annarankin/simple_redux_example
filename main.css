@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+#this-is-spinal-tap {
+  border-radius: 25px;
+  overflow: hidden;
+  margin: 20px auto;
+  width: 600px;
+  position: relative;
+}
+
+#this-is-spinal-tap img {
+  max-width: 100%;
+}
+#volume-level {
+  font-family: Impact, sans-serif;
+  font-size: 24px;
+  position: absolute;
+  top: 210px;
+  right: 90px;
+}
